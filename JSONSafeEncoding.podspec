@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-    s.name                   = 'JSONSafeEncodingLatest'
+    s.name                   = 'JSONSafeEncoding'
     s.version                = '1.0.0'
     s.summary                = 'The hassle-free way to add JSONSafeEncoding to your Swift app (iOS/tvOS/watchOS/macOS/Linux).'
     s.homepage               = 'https://github.com/cloudcaptainai/JSONSafeEncoding-Swift'
